@@ -1,0 +1,14 @@
+{
+  "servers": [
+    {
+      "name": "Hype Teams",
+      "address": "23.88.71.243",
+      "port": "29389"
+    },
+    {
+      "name": "Hype Solo",
+      "address": "23.88.71.243",
+      "port": "30294"
+    }
+  ]
+}
